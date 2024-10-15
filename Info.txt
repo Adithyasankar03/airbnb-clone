@@ -1,1 +1,1 @@
-This is a sample airbnb clone
+This is a sample airbnb clone to be created
